@@ -1,4 +1,4 @@
-# 1
+# Question 1
 Which of the following features is important for the recognition of the **initiation codon** in **prokaryotic** mRNAs?
 
 - [ ] CAP
@@ -17,7 +17,7 @@ Which of the following features is important for the recognition of the **initi
 >  Equivalent function to the 5' methylated cap in eukaryotic translation
 
 ---
-# 2
+# Question 2
 Cells of which of the following bacterial genotypes would be able to utilize lactose as an energy source and grow?
 
 - [ ] $I^+\ O^+\ Z^+\ Y^-\ /\ I^s\ O^+\ Z^-\ Y^+$
@@ -28,7 +28,6 @@ Cells of which of the following bacterial genotypes would be able to utilize lac
 
 - [x] $I^+\ O^c\ Z^+\ Y^-\ /\ I^+\ O^+\ Z^-\ Y^+$
 	one operator mutant cannot be repressed, operon expression is continuous (Constitutive)... 
-	`does the gene a mutant allele is on matter it would for cis-acting regulation correct? would this combination result in excsss beta-galactosidase that metabolizes lactose before its isomer can induce the repressor protein`
 
 - [ ] $I^+\ O^+\ Z^-\ Y^+$
 	β-galactosidase not synthesized so lactose cannot be metabolized.
@@ -36,10 +35,8 @@ Cells of which of the following bacterial genotypes would be able to utilize lac
 >[!check]- Explanation...
 >
 
-`for 1, and 3, is the second gene provided by transformation (like present in a plasmid that has been incororated into a bacteria?, also if bacteria recieve a operon, will they always inly incorporate the functional alleles if mutant alleles exist in the transformed DNA? or if a bacteria has mutant alleles in its own operon, will it only incorporate the Functional alleles, or will it just incorporate the intire operon in place of its own? (When transformation results in incorpotration, instead of only mRNA bieng intriduced that hijacks the cellular nachinery) also how does it translate 2 genes when it undergoes cell division, is there bacterial recombination or will plasmid just be duplacted along with everytinh else?`
-
 ---
-# 3
+# Question 3
 What protein factor is responsible for binding the initiator tRNA (Met-tRNAi) in **eukaryotes**?
 
 - [ ] eIF1
@@ -60,7 +57,7 @@ What protein factor is responsible for binding the initiator tRNA (Met-tRNAi) in
  (eIF2) e prefix indicates the protein present/utilized in eukaryotes.
 
 ---
-# 4
+# Question 4
 What site on the ribosome does the **initiator tRNA** bind to?
 
 - [ ] A
@@ -74,10 +71,8 @@ What site on the ribosome does the **initiator tRNA** bind to?
 >[!check]- Explanation...
 > The initial tRNA binds to the P site so that it can synthesize the first peptide bond between the initiator amino acid and the subsequent amino acid that comes into the A site.
 
-`is there an aspect of the AUG codon (or UAC anicodon) that facilitates its binding to the P site specifically?`
-
 ---
-# 5
+# Question 5
 In a strain of E.coli that is partial diploid with a genotype: $$I^+\ O^+\ Z^+\ Y^+\ /\ I^-\ O^c\ Z^+\ Y^-$$ The expression of galactosidase and permease is ___ and ___ , respectively.
 
 - [ ] Inducible, constitutive
@@ -96,7 +91,7 @@ In a strain of E.coli that is partial diploid with a genotype: $$I^+\ O^+\ Z^+\
 `What does Partial diploid mean, what are the implications?`
 
 ---
-# 6
+# Question 6
 In a strain of E.coli that is partial diploid with a genotype: $$I^+\ O^+\ Z^+\ Y^+\ /\ I^-\ O^c\ Z^-\ Y^-$$ The expression of galactosidase and permease is ___ and ___ , respectively.
 
 - [ ] Inducible, constitutive
@@ -113,7 +108,7 @@ In a strain of E.coli that is partial diploid with a genotype: $$I^+\ O^+\ Z^+\ 
 > 
 
 ---
-# 7 
+# Question 7 
 Mutations in the DNA sequence of a promoter or an operator can act $...$
 
 - [ ] only in trans
@@ -130,7 +125,7 @@ Mutations in the DNA sequence of a promoter or an operator can act $...$
 > 
 
 ---
-# 8
+# Question 8
 Which of the following sets of conditions would result in high levels of gene transcription from the _lac_ operon?
 
 - [ ] No glucose, no lactose
@@ -145,7 +140,7 @@ Which of the following sets of conditions would result in high levels of gene tr
 > 
 
 ---
-# 9 
+# Question 9 
 If you grow _E.coli_ cells in the presence of both glucose and lactose, _lac_ operon is turned off because $...$
 
 - [ ] Glucose activates the repressor
@@ -162,7 +157,7 @@ If you grow _E.coli_ cells in the presence of both glucose and lactose, _lac_
 >  
 
 ---
-# 10 
+# Question 10 
 Which of the following is an example of an effector molecule?
 
 - [ ] Lac repressor
@@ -177,7 +172,7 @@ Which of the following is an example of an effector molecule?
 >  
 
 --- 
-# 11
+# Question 11
 Which of the following statements is **incorrect** about the regulation of lactose (_Lac_) operon?
 
 - [ ] Lactose induces the expression of the Lac operon
@@ -196,17 +191,16 @@ Which of the following statements is **incorrect** about the regulation of lac
 >  
 
 ---
-# 12
+# Question 12
 If you grow _E. coli_ cells in a culture containing only lactose, which proteins would mostly be bound to the lac operon DNA? Explain?
 
 >[!check]- Anwser...
 >
 
 ---
-# 13
+# Question 13
 You isolated an _E. coli_ mutant that is expressing high levels of the lac operon in the absence of lactose (i.e., constitutive expression of the lac operon). What are the two mutations that can result in constitutive expression of the lac operon? In a given constitutive expression mutant, how can you determine which of these two mutations has occurred?
 
 >[!check]- Anwser...
 >
 
---- 

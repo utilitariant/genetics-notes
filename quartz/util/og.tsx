@@ -183,7 +183,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
   const fontBreakPoint = 32
   const useSmallerFont = title.length > fontBreakPoint
 
-  // Format date if available
+  //// Format date if available
   const rawDate = getDate(cfg, fileData)
   const date = rawDate ? formatDate(rawDate, cfg.locale) : null
 
