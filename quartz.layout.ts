@@ -33,13 +33,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-              Component: Component.Darkmode(),
-              Component: Component.ReaderMode(),
+          Component: Component.Search(),
           grow: true,
         },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
-    Component: Component.Search(),
     Component.Explorer(),
   ],
   right: [
