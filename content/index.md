@@ -1,7 +1,8 @@
 ---
 title: Map Of Contents
 
-# Info Map Of Contents
+---
+
 ### Basic Terms and Concepts
 ```dataview
 table tags as "Tags"
@@ -63,6 +64,3 @@ from "1. Info"
 WHERE contains(tags, "rxn")
 SORT file.name ASC
 ```
----
-
-
