@@ -2,38 +2,43 @@
 title: final exam study guide
 ---
 ___
-Translation  
-Key Terminology  
-• Amino group  
-• Carboxyl group  
-• Peptide bond  
-• Amino-terminal end  
-• Carboxyl- terminal end  
-• Primary structure  
-• Secondary structure  
-• Tertiary structure  
-• quaternary structure  
-• α helix  
-• β sheet  
-• loops and turns  
-• loops and turns  
-• Hydrophilic  
-• Hydrophobic  
-• Acidic amino acids  
-• Basic amino acids  
-• Sickle-cell anemia  
-• Ionic bond  
-• Hydrogen bond  
-• Disulfide bond  
-• Genetic code  
+## Translation Key Terminology :  
+ [[amino acids]]
+	• Amino group
+	• Carboxyl group
+	• Peptide bond  
+	• Amino-terminal end  
+	• Carboxyl- terminal end  
+	• Hydrophilic  
+	• Hydrophobic  
+	• Acidic amino acids  
+	• Basic amino acids  
+	• Genetic code  
+	• Termination codons or stop codon  
+	• Codon degeneracy  
+
+[[protein structures]]
+	• Primary structure  
+	• Secondary structure  
+	• Tertiary structure  
+	• quaternary structure  
+	• α helix  
+	• β sheet  
+	• loops and turns  
+	• loops and turns  
+	• Ionic bond  
+	• Hydrogen bond  
+	• Disulfide bond 
+
+[[mutations (coding sequence)]]
 • Frameshift mutation  
+
+• Sickle-cell anemia  
 • in vitro (cell-free) translation system  
 • Polynucleotide phosphorylase,  
 • Synthetic mRNA  
 • Triplet binding assay/Ribosome binding assay.  
 • Initiation codon, Start codon  
-• Termination codons or stop codon  
-• Codon degeneracy  
 • Transfer RNA  
 • tRNA structure  
 • Anticodon  
