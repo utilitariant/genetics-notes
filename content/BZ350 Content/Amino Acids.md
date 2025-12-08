@@ -1,5 +1,7 @@
 Base Structure
-# Amino Acid Chart
+
+
+# Amino Acid Codon Chart
 
 ![[Color-coded-codon.jpg]]
 

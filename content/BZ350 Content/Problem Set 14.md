@@ -111,7 +111,7 @@ A transcriptional **repressor** that controls the transcription of gene A is n
 
 - [ ] The transcription of gene A will decrease.
 
-- [ ] The transcription of gene A will not be affected.
+- [x] The transcription of gene A will not be affected.
 
 >[!check]- Explaination...
 > 
@@ -187,7 +187,7 @@ Mutations in the DNA sequence of attenuator in Tryp operon can act...
 DNA sequences that prevent an enhancer from working on a neighboring gene are called...
 
 >[!check]- Anwser...
->
+> Insulator sequence
 
 ---
 # Question 14
@@ -200,7 +200,16 @@ i) In these two copies of the tryptophan operon, which mutations are in _cis_-a
 ii) In this partial diploid, predict the expression of the _trpA_ gene in the absence and presence of tryptophan and provide an explanation.
 
 >[!check]- Anwser...
->
+>1.
+>	- trans-acting = $R^-$
+>	- cis-acting = $P^-, att^-$
+> 2.
+> - Tryptophan Presence 
+> 	No trpA produced, or very low levels produced, because 1-2 and 3-4 stem loops forms. 
+> 	No trpA produced because RNA polymerase cannot bind to promoter.
+> - Tryptophan Absence
+> 	trpA produced from first gene because it cannot flip riboswitch to release transcription.
+> 	No trpA produced from second gene because RNA polymerase cannot bind to promoter.
 
 ---
 # Question 15
