@@ -1,50 +1,62 @@
-# Question 1
+---
+title: Problem Set 14
+---
+# 1
 <strong>What is an advantage of using the _lac_ regulatory region to control the expression of exogenous (animal or plant) proteins in bacterial cells?</strong>
 
-1. [ ] This regulatory region functions in both bacterial and mammalian cells.
+- [ ] This regulatory region functions in both bacterial and mammalian cells.
 
-2. [ ] Expression can be induced to a very high level by the addition of an inducer to the medium
+- [ ] Expression can be induced to a very high level by the addition of an inducer to the medium
 
-3. [ ] By using this regulatory region, eukaryotic genomic DNA can be expressed in bacterial cells.
+- [ ] By using this regulatory region, eukaryotic genomic DNA can be expressed in bacterial cells.
 
-4. [ ] the lac regulatory region can be used to express only bacterial genes
+- [ ] the lac regulatory region can be used to express only bacterial genes
 
->[!check]- Answer...
->  2. *Expression can be induced to a very high level by the addition of an inducer to the medium*
 
 >[!question]- Explanation...
->   the lac regulatory region operates in the presence of lactose or **IPTG**, a synthetic isomer that works as a stand-in for allolactose. It functions as the effector molecule in the dissociation of the $lacI$ repressor protein from the operator sequence)
+>   The lac regulatory region is used primarily because it is well understood and simple (relative to other inducible regulatory mechanisms). Its expression can be induced by the addition of a single inducer (lactose, or IPTG*), and the levels of expression can be easily modulated by controlling the levels of the effector molecule.
+>   >[!info]-  $\LARGE{*}$  
+>   >
+>   >**ITPG** - The lac regulatory region operates in the presence of allolactose (an isomer of lactose), but it can also be induced in the presence of **IPTG** (a synthetic stand-in), as it shares an affinity for the effector domain of the $lacI$ repressor protein. 
+
+>[!check]- Answer...  
+> 2. *Expression can be induced to a very high level by the addition of an inducer to the medium*
 
 ---
-# **Question 2**
+# 2
 <strong>You mutated the gene encoding the cyclic AMP receptor protein (CRP). In this mutant, the CRP is produced but is unable to bind cyclic AMP. How will this mutant affect transcription of the _lac_ operon?</strong>
 
-1. [ ] The lac operon will always be transcribed at a high rate.
+- [ ] The lac operon will always be transcribed at a high rate.
 
-2. [ ] The lac operon will only be transcribed at a high rate when lactose is present and glucose is not.
+- [ ] The lac operon will only be transcribed at a high rate when lactose is present and glucose is not.
 
-3. [ ]  The lac operon will only be transcribed at a high rate when glucose is present and lactose is not.
+ - [ ] The lac operon will only be transcribed at a high rate when glucose is present and lactose is not.
 
-4. [ ] The lac operon will never be transcribed at a high rate.
+- [ ] The lac operon will never be transcribed at a high rate.
 
->[!check]- Answer...
->  4.  *The lac operon will never be transcribed at a high rate.*
-
-`>[!question]- Explanation...
->  
+>[!question]- Explanation...
+> 
 >  because
+>  
+>   >[!info]-  $\LARGE{*}$  
+>   >
+>   >**ITPG** - The lac regulatory region operates in the presence of allolactose (an isomer of lactose), but it can also be induced in the presence of **IPTG** (a synthetic stand-in), as it shares an affinity for the effector domain of the $lacI$ repressor protein. 
+>  
+
+>[!check]- Answer...  
+>4.  *The lac operon will never be transcribed at a high rate.*
 
 ---
-# Question 3
+# 3
 <strong>If you grow $Trp\ R^-$ _E.coli_ cells in a medium **containing tryptophan**, which of the following stem-loop(s) would you expect in the $Trp\ L$ RNA?</strong>
 
-1. [ ] 1-2 stem loop
+- [ ] 1-2 stem loop
 
-2. [ ] 2-3 stem loop
+- [ ] 2-3 stem loop
 
-3. [ ] 3-4 stem loop
+- [ ] 3-4 stem loop
 
-4. [ ] 1-2 and 3-4 stem loops
+- [ ] 1-2 and 3-4 stem loops
 
 >[!check]- Answer...
 >  3.  *3-4 stem loops*
@@ -54,16 +66,16 @@
 >  because 
 
 ---
-# Question 4
+# 4
 <strong>The genotype of an _E.coli_ strain is. $$R^+\ P^+\ O^-\ att^+\ trpA^+$$ Predict the expression of $trpA$ in the presence of tryptophan.</strong>
 
-1. [ ] not expressed
+- [ ] not expressed
 
-2. [ ] constitutive but attenuated
+- [ ] constitutive but attenuated
 
-3. [ ] constitutive and not attenuated
+- [ ] constitutive and not attenuated
 
-4. [ ] none of the above
+- [ ] none of the above
 
 >[!check]- Answer...
 >  1.  *Not expressed*
@@ -73,16 +85,16 @@
 >  because
 
 ---
-# Question 5
+# 5
 <strong>In molecular biology, what is the primary purpose of using the _lacZ_ coding region as a "reporter" gene in experimental studies?</strong>
 
-1. [ ] To encode a protein that directly enhances the stability of target mRNA molecules.
+- [ ] To encode a protein that directly enhances the stability of target mRNA molecules.
 
-2. [ ] To inhibit the transcription of neighboring genes, ensuring tight control of gene expression during experiments.
+- [ ] To inhibit the transcription of neighboring genes, ensuring tight control of gene expression during experiments.
 
-3. [ ] To provide a measurable and easily detectable output that reflects the activity of a specific promoter, enhancer, or gene regulatory element.
+- [ ] To provide a measurable and easily detectable output that reflects the activity of a specific promoter, enhancer, or gene regulatory element.
 
-4. [ ] To produce a high level of protein from any prokaryotic or eukaryotic gene.
+- [ ] To produce a high level of protein from any prokaryotic or eukaryotic gene.
 
 >[!check]- Answer...
 >  3.  *To provide a measurable and easily detectable output that reflects the activity of a specific promoter, enhancer, or gene regulatory element.*
@@ -92,7 +104,7 @@
 >  because
 
 ---
-# Question 6
+# 6
 <strong>$LacI$, $CRP$, and $TrpR$ s are allosteric proteins that can undergo a conformational change when they bind to allolactose, cAMP and tryptophan, respectively.</strong>
 
 - [ ] True
@@ -107,17 +119,17 @@
 >  because
 
 ---
-# Question 7 
+# 7 
 <strong>How is the activity of eukaryotic transcription factors regulated? 
 (Check all that apply)</strong>
 
-1. [ ] Covalent modification - e.g. protein phosphorylation
+- [ ] Covalent modification - e.g. protein phosphorylation
 
-2. [ ] Binding of an effector molecule such a hormone
+- [ ] Binding of an effector molecule such a hormone
 
-3. [ ] Binding to cytoskeletal elements
+- [ ] Binding to cytoskeletal elements
 
-4. [ ] Protein-protein interaction
+- [ ] Protein-protein interaction
 
 >[!check]- Answer...
 >   1. *Covalent modification - e.g. protein phosphorylation*  
@@ -128,16 +140,16 @@
 >  because
 
 ---
-# Question 8
+# 8
 <strong>A transcriptional **repressor** that controls the transcription of gene A is not normally active unless bound by an effector molecule X. In a certain cell type, the domain of the repressor that binds X is mutated so that X can no longer be bound. With all other factors being the same, what effect do you predict on the transcription of gene A if X is added to the cell when it is already transcribing gene A?</strong>
 
-1. [ ] The effect on the transcription of gene A cannot be predicted.
+- [ ] The effect on the transcription of gene A cannot be predicted.
 
-2. [ ] The transcription of gene A will increase.
+- [ ] The transcription of gene A will increase.
 
-3. [ ] The transcription of gene A will decrease.
+- [ ] The transcription of gene A will decrease.
 
-4. [ ] The transcription of gene A will not be affected.
+- [ ] The transcription of gene A will not be affected.
 
 >[!check]- Answer...
 >   4. *The transcription of gene A will not be affected*
@@ -146,18 +158,18 @@
 >  
 >  because
 ---
-# Question 9 
+# 9
 <strong>What is the term for a _cis_-acting DNA sequence that may function at a distance from the gene it is regulating?</strong>
 
-1. [ ] promoter
+- [ ] promoter
 
-2. [ ] terminator
+- [ ] terminator
 
-3. [ ] activator
+- [ ] activator
 
-4. [ ] enhancer
+- [ ] enhancer
 
-5. [ ] transcription factor
+- [ ] transcription factor
 
 >[!check]- Answer...
 >   4. *enhancer*
@@ -166,7 +178,7 @@
 >  
 >  because
 ---
-# Question 10 
+## # 10 
 <strong>Which of the following proteins is a **positive regulator** of gene expression in **bacteria**?</strong>
 
 - [ ] Protein coded by $LacI$
@@ -186,7 +198,7 @@
 >  because
 
 --- 
-# Question 11
+## # 11
 <strong>An RNA structure in a riboswitch that binds to a small molecule effector and regulates either transcription or translation of a bacterial genes is called a(n)?</strong>
 
 - [ ] expression platform
@@ -207,7 +219,7 @@
 >  because
 
 ---
-# Question 12
+## # 12
 Mutations in the DNA sequence of attenuator in Tryp operon can act...
 
  - [ ] on multiple operons
@@ -228,7 +240,7 @@ Mutations in the DNA sequence of attenuator in Tryp operon can act...
 >  because
 
 ---
-# Question 13
+## # 13
 DNA sequences that prevent an enhancer from working on a neighboring gene are called...
 
 >[!check]- Answer...
@@ -239,7 +251,7 @@ DNA sequences that prevent an enhancer from working on a neighboring gene are ca
 >  because
 
 ---
-# Question 14
+## #  12
 Here is an _E. coli_ partial diploid strain with two copies of the tryptophan operon. Only one structural gene (_trpA_) is shown. 
 
 $R^-\ P^+\ O^+\ att^+\ trpA^+ /\ R^+\ P^-\ O^+\ att^-\ trpA^+$

@@ -67,7 +67,7 @@ ___
 ___
 ## Other Info  
 
-**Differentiation between no and basal expression:**
+**Differentiation between no expression and basal expression:**
 	No expression 
 		only when $Z^-, Y^-$. 
 		With mutant structural genes 

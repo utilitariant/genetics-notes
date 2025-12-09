@@ -1,36 +1,51 @@
----
-title: Final Exam Study Guide
----
-___
-## Translation Key Terminology :  
- [[amino acids]]  
-	• Amino group  
-	• Carboxyl group  
-	• Peptide bond  
-	• Amino-terminal end  
-	• Carboxyl- terminal end  
-	• Hydrophilic  
-	• Hydrophobic  
-	• Acidic amino acids  
-	• Basic amino acids  
-	• Genetic code  
-	• Termination codons or stop codon  
-	• Codon degeneracy  
+## Translation Key Terminology:  
 
-[[protein structures]]  
-	• Primary structure  
-	• Secondary structure  
-	• Tertiary structure  
-	• quaternary structure  
-	• α helix  
-	• β sheet  
-	• loops and turns  
-	• loops and turns  
-	• Ionic bond  
-	• Hydrogen bond  
-	• Disulfide bond  
+R or functional group that is unique to each of the 20 amino acids  
+### Amino group
+moiety that marks the N-Terminus of a polypeptide chain  
+$\ce{NH3-}$
+### Amino-terminal end  
+N-terminus, free $\ce{NH3-}$
+### Carboxyl group
+moiety that marks the C-Terminus of a polypeptide chain  
+$\ce{-COOH}$
+### Carboxyl- terminal end  
+C-terminus, free $\ce{-COOH}$
+### Peptide bond  
+The bond between amino acids in a polypeptide chain.
+A product of a dehydration synthesis reaction, between the N and C groups of 2 amino acids, that links the carbon and nitrogen molecules. 
+The reaction is catalyzed by [[#Peptidyl transferase]]  
+### Hydrophilic  
+Characteristic of polar amino acids...
+they tend to occupy on the surface, or outside of protein structures
+### Hydrophobic  
+Characteristic of non-polar amino acids...
+they tend to fold inward, where they occupy the inside of protein structures.
+### Acidic amino acids  
+Polar amino acids that have an overall negative charge
+### Basic amino acids  
+Polar amino acids that have an overall positive charge
 
-[[mutations (coding sequence)]]  
+### Genetic code
+composed of the 64 codons and their anticodons that specify what amino acids are needed for the synthesis of a protein
+### Termination codons or stop codon  
+3 of the 64 codons that do not code for a specific amino acid, but instead signal the end or termination of the synthesized polypeptide
+### Codon degeneracy
+since there are 64 potential codons, but only 20 amino acids to code for... Many of the amino acids are encoded by multiple codons, in order to reduce mistaken transcriptions making their way into transcribed proteins.
+# Protein Structure
+• Primary structure  
+• Secondary structure  
+• Tertiary structure  
+• quaternary structure  
+• α helix  
+• β sheet  
+• loops and turns  
+• loops and turns  
+• Ionic bond  
+• Hydrogen bond  
+• Disulfide bond  
+
+# Coding Sequence Mutations 
 • Frameshift mutation  
 
 • Sickle-cell anemia  
@@ -51,7 +66,8 @@ ___
 • Ribosome  
 • Aminoacyl site (A site)  
 • Peptidyl site (P site)  
-• Peptidyl transferase  
+#### Peptidyl transferase  
+an enzyme that drives the activity of the P(eptidyl) site within the larger ribosomal subunit.
 • Polypeptide  
 • Exit site (E site)  
 • Peptide bond  

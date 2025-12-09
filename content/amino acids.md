@@ -4,7 +4,7 @@ title: Amino Acids
 ___
 # Base Structure
 
-![[Base amino acid structure.png]]
+![[Base amino acid structure.png|600]]
 
 #### R Group (Functional Group)
 functional group stemming off of the central $(\alpha)$ carbon.
@@ -18,9 +18,6 @@ $5'\ [\ce{NH3}]-$
 $-\ce{[COOH]}\ 3'$ 
 - 3' terminal end of polypeptide chain w/ free [[Carboxyl Group]] 
 - (Moiety at the 3' terminal end of amino acid and protein)
-
-
-
 
 # Amino Acid Codon Chart
 

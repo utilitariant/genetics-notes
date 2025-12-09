@@ -1,4 +1,3 @@
 ---
-title: Map Of Contents
-
+title: Home Page
 ---
