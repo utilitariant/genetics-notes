@@ -2,7 +2,9 @@
 title: Amino Acids
 ---
 ___
-Base Structure
+# Base Structure
+
+![[Base amino acid structure.png]]
 
 #### R Group (Functional Group)
 functional group stemming off of the central $(\alpha)$ carbon.

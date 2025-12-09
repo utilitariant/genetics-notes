@@ -67,6 +67,14 @@ ___
 ___
 ## Other Info  
 
+**Differentiation between no and basal expression:**
+	No expression 
+		only when $Z^-, Y^-$. 
+		With mutant structural genes 
+	Low or Basal expression
+		if $O^-, I^S$ 
+		With mutant regulatory genes
+
 **Operon Transcription**
 - The operon is always transcribed as a single [[polycistronic]] mRNA, with the coding genes in the following order...  
 	$5'-lacZ-lacY-lacA-3'$  

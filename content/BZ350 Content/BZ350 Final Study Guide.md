@@ -1,11 +1,11 @@
 ---
-title: final exam study guide
+title: Final Exam Study Guide
 ---
 ___
 ## Translation Key Terminology :  
- [[amino acids]]
-	• Amino group
-	• Carboxyl group
+ [[amino acids]]  
+	• Amino group  
+	• Carboxyl group  
 	• Peptide bond  
 	• Amino-terminal end  
 	• Carboxyl- terminal end  
@@ -17,7 +17,7 @@ ___
 	• Termination codons or stop codon  
 	• Codon degeneracy  
 
-[[protein structures]]
+[[protein structures]]  
 	• Primary structure  
 	• Secondary structure  
 	• Tertiary structure  
@@ -28,9 +28,9 @@ ___
 	• loops and turns  
 	• Ionic bond  
 	• Hydrogen bond  
-	• Disulfide bond 
+	• Disulfide bond  
 
-[[mutations (coding sequence)]]
+[[mutations (coding sequence)]]  
 • Frameshift mutation  
 
 • Sickle-cell anemia  
@@ -70,7 +70,7 @@ ___
 • Wobble base  
 • Wobble rules  
 • Antibiotic  
-• You should be able to....  
+## You should be able to....  
 • Define the grouping of amino acids based on the R group.  
 • Experimental advances that helped crack the genetic code.  
 • Describe triplet binding assay and how it allowed researchers to crack the genetic code  
