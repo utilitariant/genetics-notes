@@ -20,7 +20,7 @@ ___
 - **[[IPTG]]** a stand in for lactose used in labs.  
 
 ## Related Enzymes:
-- **[[Lac permease]]** 
+- **[[lac permease]]** 
 A membrane protein, that transports lactose into the cell  
 - **[[beta-galactosidase]]**
 catalyzes the hydrolysis of lactose, splitting it into its galactose and glucose constituents.  
