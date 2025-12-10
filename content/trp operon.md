@@ -20,7 +20,7 @@ trpL RNA has different regions
 
 Tryptophan codon = UGG, when ribosome reaches this codon the availability of Tryptophan charged tRNA determines if the Ribosome can continue on through the sequence blocking 1-2 stem loop formation and allowing for 2-3 stem loop formation.
 
-![[content/attachments/Tryptophan.png|300]]
+![[Tryptophan.png|300]]
 
 
 **Partial Diploid Genotype Effects**

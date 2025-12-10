@@ -1,4 +1,4 @@
-# 1 -
+# 1
 <strong>What is an advantage of using the _lac_ regulatory region to control the expression of exogenous (animal or plant) proteins in bacterial cells?</strong>
 
 - [ ] This regulatory region functions in both bacterial and mammalian cells.
@@ -20,7 +20,7 @@
 > 2. *Expression can be induced to a very high level by the addition of an inducer to the medium*
 
 ---
-# 2 -
+# 2
 <strong>You mutated the gene encoding the cyclic AMP receptor protein (CRP). In this mutant, the CRP is produced but is unable to bind cyclic AMP. How will this mutant affect transcription of the _lac_ operon?</strong>
 
 - [ ] The lac operon will always be transcribed at a high rate.
@@ -44,7 +44,7 @@
 >4.  *The lac operon will never be transcribed at a high rate.*
 
 ---
-# 3 -
+# 3
 <strong>If you grow $Trp\ R^-$ _E.coli_ cells in a medium **containing tryptophan**, which of the following stem-loop(s) would you expect in the $Trp\ L$ RNA?</strong>
 
 - [ ] 1-2 stem loop
@@ -68,7 +68,7 @@
 >3.  *3-4 stem loops*
 
 ---
-# 4 -
+# 4
 <strong>The genotype of an _E.coli_ strain is. $$R^+\ P^+\ O^-\ att^+\ trpA^+$$ Predict the expression of $trpA$ in the presence of tryptophan.</strong>
 
 - [ ] not expressed
@@ -92,7 +92,7 @@
 >1.  *Not expressed*
 
 ---
-# 5 -
+# 5
 <strong>In molecular biology, what is the primary purpose of using the _lacZ_ coding region as a "reporter" gene in experimental studies?</strong>
 
 - [ ] To encode a protein that directly enhances the stability of target mRNA molecules.
@@ -116,7 +116,7 @@
 >  3.  *To provide a measurable and easily detectable output that reflects the activity of a specific promoter, enhancer, or gene regulatory element.*
 
 ---
-# 6 -
+# 6
 <strong>$LacI$, $CRP$, and $TrpR$ are allosteric proteins that can undergo a conformational change when they bind to allolactose, cAMP and tryptophan, respectively.</strong>
 
 - [ ] True
@@ -137,7 +137,7 @@
 >  *True*
 
 ---
-# 7 -
+# 7 
 <strong>How is the activity of eukaryotic transcription factors regulated? 
 (Check all that apply)</strong>
 
@@ -164,7 +164,7 @@
 >   2. *Binding of an effector molecule such a hormone*
 
 ---
-# 8 -
+# 8
 <strong>A transcriptional **repressor** that controls the transcription of gene A is not normally active unless bound by an effector molecule X. In a certain cell type, the domain of the repressor that binds X is mutated so that X can no longer be bound. With all other factors being the same, what effect do you predict on the transcription of gene A if X is added to the cell when it is already transcribing gene A?</strong>
 
 - [ ] The effect on the transcription of gene A cannot be predicted.
@@ -185,7 +185,7 @@
 >   4. *The transcription of gene A will not be affected*
 
 ---
-# 9 -
+# 9
 <strong>What is the term for a _cis_-acting DNA sequence that may function at a distance from the gene it is regulating?</strong>
 
 - [ ] promoter
@@ -208,7 +208,7 @@
 >   4. *enhancer*
 
 ---
-# 10 -
+## # 10 
 <strong>Which of the following proteins is a **positive regulator** of gene expression in **bacteria**?</strong>
 
 - [ ] Protein coded by $LacI$
@@ -233,7 +233,7 @@
 >   4. *cyclic AMP receptor protein (CRP)*
 
 --- 
-# 11 -
+## # 11
 <strong>An RNA structure in a riboswitch that binds to a small molecule effector and regulates either transcription or translation of a bacterial genes is called a(n)?</strong>
 
 - [ ] expression platform
@@ -258,7 +258,7 @@
 >   3. *aptamer*
 
 ---
-# 12 -
+## # 12
 Mutations in the DNA sequence of attenuator in Tryp operon can act...
 
  - [ ] on multiple operons
@@ -283,7 +283,7 @@ Mutations in the DNA sequence of attenuator in Tryp operon can act...
 >   3. *only in sis*
 
 ---
-# 13 -
+## # 13
 DNA sequences that prevent an enhancer from working on a neighboring gene are called...
 
 >[!check]- Answer...
@@ -295,7 +295,7 @@ DNA sequences that prevent an enhancer from working on a neighboring gene are ca
 >  
 
 ---
-# 14 -
+## #  14
 Here is an _E. coli_ partial diploid strain with two copies of the tryptophan operon. Only one structural gene (_trpA_) is shown. 
 
 $R^-\ P^+\ O^+\ att^+\ trpA^+ /\ R^+\ P^-\ O^+\ att^-\ trpA^+$
@@ -317,7 +317,7 @@ $R^-\ P^+\ O^+\ att^+\ trpA^+ /\ R^+\ P^-\ O^+\ att^-\ trpA^+$
 > 	No $trpA$ produced from second gene because RNA polymerase cannot bind to promoter.
 
 ---
-# 15 -
+# 15
 List **two mutations** in yeast that would result in no expression of _GAL7_ in the presence of galactose in the medium.  Explain how these mutations result in no expression of _GAL7_.
 
 >[!check]- Answer...
