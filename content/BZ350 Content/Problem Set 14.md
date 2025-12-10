@@ -295,7 +295,7 @@ DNA sequences that prevent an enhancer from working on a neighboring gene are ca
 >  
 
 ---
-## #  12
+## #  14
 Here is an _E. coli_ partial diploid strain with two copies of the tryptophan operon. Only one structural gene (_trpA_) is shown. 
 
 $R^-\ P^+\ O^+\ att^+\ trpA^+ /\ R^+\ P^-\ O^+\ att^-\ trpA^+$
@@ -317,7 +317,7 @@ $R^-\ P^+\ O^+\ att^+\ trpA^+ /\ R^+\ P^-\ O^+\ att^-\ trpA^+$
 > 	No $trpA$ produced from second gene because RNA polymerase cannot bind to promoter.
 
 ---
-# Question 15
+# 15
 List **two mutations** in yeast that would result in no expression of _GAL7_ in the presence of galactose in the medium.  Explain how these mutations result in no expression of _GAL7_.
 
 >[!check]- Answer...
