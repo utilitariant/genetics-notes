@@ -25,16 +25,16 @@ $-\ce{[COOH]}\ 3'$
 
 # List Of All Amino Acids w/ Structures
 
-| Links      | ---                                         | ---           | ---                                            |
-| ---------- | ------------------------------------------- | ------------- | ---------------------------------------------- |
-| Alanine    | ![[public/attachments/Alanine.png\|400]]    | Arginine      | ![[public/attachments/Arginine.png\|400]]      |
-| Asparagine | ![[public/attachments/Asparagine.png\|400]] | Aspartic Acid | ![[public/attachments/Aspartic-acid.png\|400]] |
-| Cysteine   | ![[public/attachments/Cysteine.png\|400]]   | Glutamic Acid | ![[public/attachments/Glutamic-acid.png\|400]] |
-| Glutamine  | ![[public/attachments/Glutamine.png\|400]]  | Glycine       | ![[public/attachments/Glycine.png\|400]]       |
-| Histidine  | ![[public/attachments/Histidine.png\|400]]  | Isoleucine    | ![[public/attachments/Isoleucine.png\|400]]    |
-| Leucine    | ![[public/attachments/Leucine.png\|400]]    | Lysine        | ![[public/attachments/Lysine.png\|400]]        |
-| Methionine | ![[public/attachments/Methionine.png\|400]] | Phenylalanine | ![[public/attachments/Phenylalanine.png\|400]] |
-| Proline    | ![[public/attachments/Proline.png\|400]]    | Serine        | ![[public/attachments/Serine.png\|400]]        |
-| Threonine  | ![[public/attachments/Threonine.png\|400]]  | Tryptophan    | ![[public/attachments/Tryptophan.png\|400]]    |
-| Tyrosine   | ![[public/attachments/Tyrosine.png\|400]]   | Valine        | ![[public/attachments/Valine.png\|400]]        |
+| Links      | ---                      | ---           | ---                         |
+| ---------- | ------------------------ | ------------- | --------------------------- |
+| Alanine    | ![[Alanine.png\|400]]    | Arginine      | ![[Arginine.png\|400]]      |
+| Asparagine | ![[Asparagine.png\|400]] | Aspartic Acid | ![[Aspartic-acid.png\|400]] |
+| Cysteine   | ![[Cysteine.png\|400]]   | Glutamic Acid | ![[Glutamic-acid.png\|400]] |
+| Glutamine  | ![[Glutamine.png\|400]]  | Glycine       | ![[Glycine.png\|400]]       |
+| Histidine  | ![[Histidine.png\|400]]  | Isoleucine    | ![[Isoleucine.png\|400]]    |
+| Leucine    | ![[Leucine.png\|400]]    | Lysine        | ![[Lysine.png\|400]]        |
+| Methionine | ![[Methionine.png\|400]] | Phenylalanine | ![[Phenylalanine.png\|400]] |
+| Proline    | ![[Proline.png\|400]]    | Serine        | ![[Serine.png\|400]]        |
+| Threonine  | ![[Threonine.png\|400]]  | Tryptophan    | ![[Tryptophan.png\|400]]    |
+| Tyrosine   | ![[Tyrosine.png\|400]]   | Valine        | ![[Valine.png\|400]]        |
 
