@@ -4,11 +4,11 @@ title: Coding Sequence Mutations
 ___
 ### Wild type mRNA + Intended Polypeptide Sequence
 
-![[wildtype-mrna-polypeptide.png|300]]
+![[content/attachments/wildtype-mrna-polypeptide.png|300]]
 ___ 
 ### Silent Mutation
 
-![[silent-mutation.png|300]]
+![[content/attachments/silent-mutation.png|300]]
 
 - Mutation of single nucleotide...  
 - Only alters the codon which the mutation occurred within...  
@@ -16,7 +16,7 @@ ___
 ___
 ### Missense Mutation
 
-![[missense-mutation.png|300]]
+![[content/attachments/missense-mutation.png|300]]
 
 - Mutation of 1 or more nucleotides within a single codon... 
 - Alters the translated amino acid (intended amino acid replaced with a different amino acid).
@@ -31,7 +31,7 @@ ___
 ___
 ### Nonsense Mutation
 
-![[nonsense-mutation.png|300]]
+![[content/attachments/nonsense-mutation.png|300]]
 
 - Mutation that alters an Amino acid coding codon, into a stop codon... 
 - Results in premature polypeptide termination during translation...
@@ -39,7 +39,7 @@ ___
 ___
 ### Frameshift Mutation
 
-![[frameshift-mutation.png|300]]
+![[content/attachments/frameshift-mutation.png|300]]
 
 - Mutation resulting in the insertion or deletion of one or more nucleotides (except for multiples of three*).
 - shift in the entire reading frame, which alters the entire codon sequence following the mutation.
