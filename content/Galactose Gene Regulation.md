@@ -1,4 +1,7 @@
-#eukaryotes
+---
+tags:
+  - eukaryotes
+---
 
 when [[galactose]] is absent
 2 TFs control expression of related enzymes

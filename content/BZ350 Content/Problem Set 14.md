@@ -1,6 +1,3 @@
----
-title: Problem Set 14
----
 # 1
 <strong>What is an advantage of using the _lac_ regulatory region to control the expression of exogenous (animal or plant) proteins in bacterial cells?</strong>
 
@@ -58,12 +55,17 @@ title: Problem Set 14
 
 - [ ] 1-2 and 3-4 stem loops
 
->[!check]- Answer...
->  3.  *3-4 stem loops*
-
->[!question]- Explaination...
+>[!question]- Explanation...
+> 
+>  **$Trp\ R^-$** Means that the trp operator cannot be repressed regardless of tryptophan content. But there is still the trpL regulatory region. because the E.coli is grown in a medium containing tryptophan, tRNAs charged with tryptophan molecules, will bind to the codon in the leader sequence. this base pairing holds the rest of the RNA in a way that the base pairs form into the 1-2 loop allowing the 3-4 loop to form, blocking further transcription. %
 >  
->  because 
+>   >[!info]-  $\LARGE{*}$  
+>   >
+>   >
+>  
+
+>[!check]- Answer...  
+>3.  *3-4 stem loops*
 
 ---
 # 4
@@ -77,12 +79,17 @@ title: Problem Set 14
 
 - [ ] none of the above
 
->[!check]- Answer...
->  1.  *Not expressed*
-
-`>[!question]- Explaination...
+>[!question]- Explanation...
+>  Even with an non-functional operator sequence, the functional $trpL$ /$att$ region will bind with tryptophan in its presence. Activation of the attenuator will block transcription.
 >  
->  because
+>  
+>   >[!info]- Info  
+>   >
+>   >Regardless of the rest of the regulatory sequences and their functionality, an intact attenuator region (in the presence of tryptophan) will block expression of all that falls after it.
+>  
+
+>[!check]- Answer...  
+>1.  *Not expressed*
 
 ---
 # 5
@@ -96,27 +103,38 @@ title: Problem Set 14
 
 - [ ] To produce a high level of protein from any prokaryotic or eukaryotic gene.
 
+>[!question]- Explanation...
+>  (pg 574)
+>  in synthetic vectors, $lacZ$ can be used as a reporter to label can be ...
+>  
+>   >[!info]- Info  
+>   >
+>   >Regardless of the rest of the regulatory sequences and their functionality, an active attenuator region will block all expression that falls after the $trpL$ gene.
+>  
+
 >[!check]- Answer...
 >  3.  *To provide a measurable and easily detectable output that reflects the activity of a specific promoter, enhancer, or gene regulatory element.*
 
-`>[!question]- Explaination...
->  
->  because
-
 ---
 # 6
-<strong>$LacI$, $CRP$, and $TrpR$ s are allosteric proteins that can undergo a conformational change when they bind to allolactose, cAMP and tryptophan, respectively.</strong>
+<strong>$LacI$, $CRP$, and $TrpR$ are allosteric proteins that can undergo a conformational change when they bind to allolactose, cAMP and tryptophan, respectively.</strong>
 
 - [ ] True
 
 - [ ] False
 
+>[!question]- Explanation...
+>  - $LacI$. In the presence of lactose, [[Allolactose]] binds to this repressor proteins allosteric site. In doing so, it conformationally changes the proteins shape, causing it to lose affinity for the operator region
+>  - $CRP$. If present [[cAMP]] binds to this proteins allosteric site. When bound, the cAMP conformationally changes the proteins shape, giving it affinity for the promoter region of the lac operon.
+>  - $TrpR$. When present tryptophan binds to this repressor proteins allosteric region, changing the conformational shape of the protein so that it has affinity for the operator sequence. 
+>   >[!info]- Info  
+>   >  - $LacI$, is the repressor protein that binds to the [[lac operon]] operator sequence to silence expression. When lactose is present [[Allolactose]] binds to the repressor protein and changes its shape, so that the operon can be induced, and the genes expressed in order to synthesize the enzymes and proteins necessary to metabolize the lactose.
+>   >  - $CRP$, is a regulatory protein. when Glucose levels are very low cAMP accumulates in the cell, and will binds to the allosteric site on the CRP protein. When bound it forms the CRP-cAMP Complex. This complex binds to the lac Promoter region where it recruits RNA polymerase so that the operon can be expressed in order to break down lactose reserves so that there is more glucose for use in the cell.
+>   >  - $TrpR$, is a repressor protein that binds to the operator region of the [[trp operon]]. When bound to tryptophan, the resulting trpR-tryptophan complex binds to the operon operator and silences expression, because the cell does not want to use resources to synthesize tryptophan when it doesn't need too.
+>  
+
 >[!check]- Answer...
 >  *True*
-
-`>[!question]- Explaination...
->  
->  because
 
 ---
 # 7 
@@ -131,13 +149,19 @@ title: Problem Set 14
 
 - [ ] Protein-protein interaction
 
+>[!question]- Explanation...
+>  
+>  
+>  
+>   >[!info]- Info  
+>   >
+>   >
+>  
+
+
 >[!check]- Answer...
 >   1. *Covalent modification - e.g. protein phosphorylation*  
 >   2. *Binding of an effector molecule such a hormone*
-
-`>[!question]- Explaination...
->  
->  because
 
 ---
 # 8
@@ -151,12 +175,15 @@ title: Problem Set 14
 
 - [ ] The transcription of gene A will not be affected.
 
+>[!question]- Explanation...
+>  Under normal circumstances the repressor protein does not directly regulate the A gene.
+>  When the effector molecule is present, it binds to the repressor, activating it so that it can bind to a operator for gene A, and repress is expression
+>  If the Repressor protein looses affinity for the effector molecule it means that the A gene will be expressed constitutively, regardless of the effectors presence.
+>  If the A gene is already being expressed, it will continue to express, unaffected, as the repressor protein can not be activated to silence the expression of the A gene.
+
 >[!check]- Answer...
 >   4. *The transcription of gene A will not be affected*
 
-`>[!question]- Explaination...
->  
->  because
 ---
 # 9
 <strong>What is the term for a _cis_-acting DNA sequence that may function at a distance from the gene it is regulating?</strong>
@@ -171,31 +198,39 @@ title: Problem Set 14
 
 - [ ] transcription factor
 
+>[!question]- Explanation...
+>  - The promoter sequence is a a cis-acting element but it lies just upstream from the gene it regulates.
+>  - The Terminator sequence is a cis-acting element, that exists within the gene it terminates.
+>  - Activators and Transcription factors are trans-acting elements
+>  - Enhancer sequences lie far away from the genes they regulate, and can be either upstream or downstream.
+
 >[!check]- Answer...
 >   4. *enhancer*
 
-`>[!question]- Explaination...
->  
->  because
 ---
 ## # 10 
 <strong>Which of the following proteins is a **positive regulator** of gene expression in **bacteria**?</strong>
 
 - [ ] Protein coded by $LacI$
 
-- [ ] Protein coded by $TrypR$
+- [ ] Protein coded by $TrpR$
 
-- [ ] $TrypR$ and $LacI$
+- [ ] $TrpR$ and $LacI$
 
 - [ ] cyclic AMP receptor protein (CRP)
 
+>[!question]- Explanation...
+>  - The $LacI$ repressor protein functions as a negative regulator for the lac operon. If functional it will bind to the operator region, and expression will be <u>silenced</u>.
+>  - The $TrpR$ repressor protein functions as a negative regulator for the trp operon. It is not normally bound to the trp operator, but when it forms the Tryptophan-trp repressor complex in the presence of tryptophan, it will bind to the operator and expression will be <u>silenced</u>.
+>  - The cyclic AMP receptor protein functions as a positive regulator for the lac operon. it is normally bound to the promoter, but when glucose levels are low cAMP is produced, which binds to CRP, to form the CRP-cAMP Complex. The complex binds to promoter region and <u>Increases</u> expression of the operon. 
+>  
+>   >[!info]- Info  
+>   >In general positive regulation means that the presence of the specific molecule increases expression, and negative regulation means that the presence of a specific molecule decreases expression
+>   >
+>  
 
 >[!check]- Answer...
 >   4. *cyclic AMP receptor protein (CRP)*
-
-`>[!question]- Explaination...
->  
->  because
 
 --- 
 ## # 11
@@ -211,12 +246,16 @@ title: Problem Set 14
 
 - [ ] all the above
 
+>[!question]- Explanation...
+> 
+>  
+>   >[!info]- Info  
+>   >
+>   >
+>  
+
 >[!check]- Answer...
 >   3. *aptamer*
-
-`>[!question]- Explaination...
->  
->  because
 
 ---
 ## # 12
@@ -232,23 +271,28 @@ Mutations in the DNA sequence of attenuator in Tryp operon can act...
 
 - [ ] all of the above
 
+>[!question]- Explanation...
+> 
+>  
+>   >[!info]- Info  
+>   >
+>   >
+>  
+
 >[!check]- Answer...
 >   3. *only in sis*
-
-`>[!question]- Explaination...
->  
->  because
 
 ---
 ## # 13
 DNA sequences that prevent an enhancer from working on a neighboring gene are called...
 
 >[!check]- Answer...
->   **
-
-`>[!question]- Explaination...
+> 
 >  
->  because
+>   >[!question] explanation 
+>   > blah blah
+>   >
+>  
 
 ---
 ## #  12
@@ -276,41 +320,10 @@ $R^-\ P^+\ O^+\ att^+\ trpA^+ /\ R^+\ P^-\ O^+\ att^-\ trpA^+$
 # Question 15
 List **two mutations** in yeast that would result in no expression of _GAL7_ in the presence of galactose in the medium.  Explain how these mutations result in no expression of _GAL7_.
 
->[!check]- Anwser...
->
-
-
-## 4. 
-*<p align="right">Inbreeding | Genotype frequency</p>*
-### **In a population with a high rate of inbreeding, which of the following would you expect?**
-
-1. The frequency of _AA_ individuals will be equal to _p2_ and the frequency of _aa_ individuals will be equal to _q2._
-
-2. The frequency of _AA_ individuals will be greater than _p2_ and the frequency of _aa_ individuals will be greater than _q2._
-
-3. The frequency of _AA_ individuals will be greater than _p2_ and the frequency of _aa_ individuals will be less than _q2._
-
-4. The frequency of _AA_ individuals will be less than _p2_ and the frequency of _aa_ individuals will be greater than _q2._
-
-5. The frequency of _AA_ individuals will be less than _p2_ and the frequency of _aa_ individuals will be less than _q2._
-
 >[!check]- Answer...
->  2. The frequency of _AA_ individuals will be greater than _p2_, and the frequency of _aa_ individuals will be greater than _q2._ ✅
-
->[!question]- Why/Why Not?
-> 3. If $\mathrm {AA\ Freq = p^2}$ and $\mathrm {aa\ freq = q^2}$...
-> 	   You would expect 'normal' random mating
-> 	
-> 4. If $\mathrm {AA\ Freq > p^2}$ and $\mathrm {aa\ freq > q^2}$...
-> 	   Then you would expect  ✅
-> 	
-> 5. If $\mathrm {AA\ Freq > p^2}$ and $\mathrm {aa\ freq < q^2}$...
-> 	   Then you would expect  
-> 	
-> 6. If $\mathrm {AA\ Freq < p^2}$ and $\mathrm {aa\ freq > q^2}$...
-> 	   Then you would expect  
-> 	
-> 7. If $\mathrm {AA\ Freq < p^2}$ and $\mathrm {aa\ freq < q^2}$...
-> 	   Then you would expect  
-> 	
-
+> 
+>  
+>   >[!question] explanation 
+>   > blah blah
+>   >
+>  
