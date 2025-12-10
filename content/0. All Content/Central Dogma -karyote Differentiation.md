@@ -1,6 +1,3 @@
----
-title: Differentiation Between Prokaryote and Eukaryote Mechanisms, Structures and Functions Involved in the Central Dogma
----
 ___
 # Replication
 | Structure/<br>Function                 | Prokaryotes                     | Eukaryotes                      |

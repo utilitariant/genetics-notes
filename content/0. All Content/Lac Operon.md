@@ -42,12 +42,12 @@ Protein Regulatory elements that can act on any DNA in the cell.
 	An enzyme that Hydrolyzes lactose into galactose and glucose.<br>
 	</br>
 - $\large lacY$ Gene  
-	Codes for [[lac permease]],  
+	Codes for [[lac Permease]],  
 	A Membrane protein that pumps lactose into a cell.<br>
 	</br>
 - $\large lacA$ Gene  
 	Codes for transacetylase,   
-	An enzyme adds an [[acetyl group]] ($\ce{CH3CO}$) to lactose.
+	An enzyme adds an [[Acetyl Group]] ($\ce{CH3CO}$) to lactose.
 ___
 
 # Summary Table

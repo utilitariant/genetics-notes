@@ -1,3 +1,6 @@
+---
+title: Regulatory Transcription Factors
+---
 ## Activator proteins
 TF that bind to DNA enhancing gene transcription above basal levels...
 - DNA binding domain (binds to promoter)

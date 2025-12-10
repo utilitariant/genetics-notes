@@ -1,5 +1,5 @@
 ---
-title: trp_Operon
+title: trp Operon
 ---
 **Tryptophan presence**
 - Tryptophan <u>absent</u> in cell... Operon expressed
@@ -22,13 +22,6 @@ Tryptophan codon = UGG, when ribosome reaches this codon the availability of Try
 
 ![[content/attachments/Tryptophan.png|300]]
 
-
-**Partial Diploid Genotype Effects**
-- $R^+\ P^+\ O^+\ att^+\ trpA^- /\ R^-\ P^+\ O^+\ att^+\ trpA^+$
-	=
-
-- $R^+\ P^+\ O^+\ att^+\ trpA^- /\ R^-\ P^+\ O^+\ att^+\ trpA^+$
-	= Basal or low expression
 
 **Riboswitches**
 	Sequence in the 5' UTR (untranslated region) of the operon, 
