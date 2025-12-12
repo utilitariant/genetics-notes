@@ -1,8 +1,9 @@
 ___
 # Replication
-| Structure/<br>Function                 | Prokaryotes                     | Eukaryotes                      |
-| -------------------------------------- | ------------------------------- | ------------------------------- |
-|                                        |                                 |                                 |
+| Structure/<br>Function | Prokaryotes | Eukaryotes |
+| ---------------------- | ----------- | ---------- |
+|                        |             |            |
+|                        |             |            |
 # Transcription
 | Structure/<br>Function | Prokaryotes | Eukaryotes |
 | ---------------------- | ----------- | ---------- |

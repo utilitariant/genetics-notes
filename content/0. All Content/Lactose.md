@@ -11,7 +11,7 @@ Lactose is a complex sugar, composed of 2 monosaccharides, 1 [[glucose]] and 1 [
 It can be [[hydrolyzed]] into the 2 constituent monomers.
 
 ***lac* operon**. 
-In bacteria, lactose metabolism is controlled by the [[Lac Operon]], a set of genes coding for several proteins that catalyze the breakdown of lactose. the operon is controlled by a few simple but efficient regulatory mechanisms. 
+In bacteria, lactose metabolism is controlled by the [[lac Operon]], a set of genes coding for several proteins that catalyze the breakdown of lactose. the operon is controlled by a few simple but efficient regulatory mechanisms. 
 
 ___
 # Related

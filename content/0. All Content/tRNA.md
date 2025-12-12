@@ -6,9 +6,9 @@ ___
 single stranded sRNAs that match amino acids with anti-codons
 
 Either...  
-charged (w/amino acid)   
+charged (tRNA w/ amino acid attached to 3' OH (hydroxyl) group)   
 or...  
-uncharged (w/o amino acid)
+uncharged (tRNA with bare 3' OH (hydroxyl) group)
 
 Amino acids bind to 3' OH hydroxyl group on the stem 
 
@@ -34,11 +34,10 @@ structural RNA molecules that were transcribed from genes by RNA polymerase III
 
  carry a specific amino acid and recognizes one or more of the mRNA codons that define the order of amino acids in a protein.
 
-Aminoacyl-tRNAs bind to the ribosome and add the corresponding amino acid to the polypeptide chain. Therefore, tRNAs are the molecules that actually “translate” the language of RNA into the language of proteins.
-each tRNA molecule is linked to its correct amino acid by one of a group of enzymes called [[Aminoacyl tRNA Synthetase]] 
+Aminoacyl-tRNAs (charged tRNAs) bind to the ribosome A site, bringing the corresponding amino acid so that it can be added to the C terminus of the growing polypeptide chain. 
 
 Modified nucleotide bases included in tRNAs:
-I 
+
 
 Wobble rule...
 fewer tRNA than number of anti-codons 

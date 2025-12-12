@@ -7,7 +7,7 @@ Which of the following features is important for the recognition of the **initi
 
 - [ ] CAAT box
 
-- [x] Shine-Dalgarno box
+- [ ] Shine-Dalgarno box
 
 - [ ] Poly (A) tail
 
@@ -15,6 +15,9 @@ Which of the following features is important for the recognition of the **initi
 >  The [[Shine-Dalgarno box]] is a nucleotide sequence that precedes the initiation codon in Prokaryotic mRNA, which is recognized by, and acts as the binding site for the the 30S ribosomal subunit, in order to initiate translation. 
 >  
 >  Equivalent function to the 5' methylated cap in eukaryotic translation
+
+>[!check]- Answer...  
+> 4.*Shine-Dalgarno box*
 
 ---
 # Question 2
@@ -26,7 +29,7 @@ Cells of which of the following bacterial genotypes would be able to utilize lac
 - [ ] $I^s\ O^+\ Z^+\ Y^+$
 	Superrepressor present... inducible Operator sequence... Operon repressed... lactose cannot be metabolized.
 
-- [x] $I^+\ O^c\ Z^+\ Y^-\ /\ I^+\ O^+\ Z^-\ Y^+$
+- [ ] $I^+\ O^c\ Z^+\ Y^-\ /\ I^+\ O^+\ Z^-\ Y^+$
 	one operator mutant cannot be repressed, operon expression is continuous (Constitutive)... 
 
 - [ ] $I^+\ O^+\ Z^-\ Y^+$
@@ -35,6 +38,8 @@ Cells of which of the following bacterial genotypes would be able to utilize lac
 >[!check]- Explanation...
 >
 
+>[!check]- Answer...  
+> 3. $I^+\ O^c\ Z^+\ Y^-\ /\ I^+\ O^+\ Z^-\ Y^+$
 ---
 # Question 3
 What protein factor is responsible for binding the initiator tRNA (Met-tRNAi) in **eukaryotes**?
@@ -47,14 +52,17 @@ What protein factor is responsible for binding the initiator tRNA (Met-tRNAi) in
 
 - [ ] eEF-G
 
-- [x] eIF2
+- [ ] eIF2
 
 - [ ] eIF4
 
 >[!check]- Explanation...
-> IF2 Is the protein that binds initial tRNA to the P site of the Ribosome.
-> 
- (eIF2) e prefix indicates the protein present/utilized in eukaryotes.
+> IF2 Is the protein that binds initial tRNA to the ribosome P site in Prokaryotes.
+> <u>e</u>IF2 is the protein that binds initial tRNA to the ribosome P site in Eukaryotes
+> e prefix indicates the protein present/utilized in eukaryotes.
+
+>[!check]- Answer...  
+>5. eIF2
 
 ---
 # Question 4
@@ -62,14 +70,17 @@ What site on the ribosome does the **initiator tRNA** bind to?
 
 - [ ] A
 
-- [x] P
+- [ ] P
 
 - [ ] E
 
 - [ ] either A or P
 
 >[!check]- Explanation...
-> The initial tRNA binds to the P site so that it can synthesize the first peptide bond between the initiator amino acid and the subsequent amino acid that comes into the A site.
+> The initial tRNA binds to the P site so that it can synthesize the first <u>P</u>eptide bond between the initiator amino acid and the subsequent amino acid that comes into the A site.
+
+>[!check]- Answer...  
+>2. *P*
 
 ---
 # Question 5
@@ -81,14 +92,16 @@ In a strain of E.coli that is partial diploid with a genotype: $$I^+\ O^+\ Z^+\
 
 - [ ] inducible, inducible
 
-- [x] constitutive, inducible
+- [ ] constitutive, inducible
 
 - [ ] inducible, no expression
 
+<div>
 >[!check]- Explanation...
 > $I^+\ O^+\ Z^+\ Y^+$ produces 
-
-`What does Partial diploid mean, what are the implications?`
+</div>
+>[!check]- Answer...  
+>4. *constitutive, inducible*
 
 ---
 # Question 6
@@ -98,15 +111,17 @@ In a strain of E.coli that is partial diploid with a genotype: $$I^+\ O^+\ Z^+\ 
 
 - [ ] constitutive, constitutive
 
-- [x] inducible, inducible
+- [ ] inducible, inducible
 
 - [ ] constitutive, inducible
 
 - [ ] inducible, no expression
 
 >[!check]- Explanation...
-> 
 
+
+>[!check]- Answer...  
+>3. *inducible, inducible*
 ---
 # Question 7 
 Mutations in the DNA sequence of a promoter or an operator can act $...$
@@ -115,15 +130,17 @@ Mutations in the DNA sequence of a promoter or an operator can act $...$
 
 - [ ] on multiple operons
 
-- [x] only in cis
+- [ ] only in cis
 
 - [ ] either in trans or in cis
 
 - [ ] all of the above
 
->[!check]- Explaination...
-> 
+>[!check]- Explanation...
 
+
+>[!check]- Answer...  
+>3. *Only in cis*
 ---
 # Question 8
 Which of the following sets of conditions would result in high levels of gene transcription from the _lac_ operon?
@@ -132,12 +149,12 @@ Which of the following sets of conditions would result in high levels of gene tr
 
 - [ ] High glucose, no lactose
 
-- [x] No glucose, high lactose
+- [ ] No glucose, high lactose
 
 - [ ] High glucose, high lactose
 
->[!check]- Explaination...
-> 
+>[!check]- Answer...  
+>3. *No glucose, high lactose*
 
 ---
 # Question 9 
@@ -149,12 +166,12 @@ If you grow _E.coli_ cells in the presence of both glucose and lactose, _lac_
 
 - [ ] Glucose inhibits the uptake of lactose
 
-- [x] Glucose inhibits the production of cAMP
+- [ ] Glucose inhibits the production of cAMP
 
 - [ ] Glucose binds the operator and prevents RNA polymerase from binding to the promoter
 
->[!check]- Explaination...
->  
+>[!check]- Answer...  
+>4. *Glucose inhibits the production of cAMP*
 
 ---
 # Question 10 
@@ -166,10 +183,10 @@ Which of the following is an example of an effector molecule?
 
 - [ ] lacY and lacZ
 
-- [x] Allolactose
+- [ ] Allolactose
 
->[!check]- Explaination...
->  
+>[!check]- Answer...  
+>4. *Allolactose*
 
 --- 
 # Question 11
@@ -181,26 +198,27 @@ Which of the following statements is **incorrect** about the regulation of lac
 
 - [ ] In the presence of lactose in the medium, LacI is released from the Lac operon resulting in Lac operon expression.
 
-- [x] Loss of Lacl results in low expression of Lac operon in the presence of lactose
+- [ ] Loss of Lacl results in low expression of Lac operon in the presence of lactose
 
 - [ ] Loss of LacI results in expression of Lac operon in the absence of lactose
 
 - [ ] The binding of lactose/allolactose to LacI results in conformational change (shape change) in this protein.
 
->[!check]- Explaination...
->  
+
+>[!check]- Answer...  
+>4. *Loss of Lacl results in low expression of Lac operon in the presence of lactose*
 
 ---
 # Question 12
 If you grow _E. coli_ cells in a culture containing only lactose, which proteins would mostly be bound to the lac operon DNA? Explain?
 
->[!check]- Anwser...
+>[!check]- Answer...  
 >
 
 ---
 # Question 13
 You isolated an _E. coli_ mutant that is expressing high levels of the lac operon in the absence of lactose (i.e., constitutive expression of the lac operon). What are the two mutations that can result in constitutive expression of the lac operon? In a given constitutive expression mutant, how can you determine which of these two mutations has occurred?
 
->[!check]- Anwser...
+>[!check]- Answer...  
 >
 

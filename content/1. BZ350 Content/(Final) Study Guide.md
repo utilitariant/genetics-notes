@@ -32,14 +32,24 @@ composed of the 64 codons and their anticodons that specify what amino acids are
 3 of the 64 codons that do not code for a specific amino acid, but instead signal the end or termination of the synthesized polypeptide
 ### Codon degeneracy
 since there are 64 potential codons, but only 20 amino acids to code for... Many of the amino acids are encoded by multiple codons, in order to reduce mistaken transcriptions making their way into transcribed proteins.
-# Protein Structure
-• Primary structure  
-• Secondary structure  
-• Tertiary structure  
-• quaternary structure  
-• α helix  
-• β sheet  
-• loops and turns  
+# levels of Protein Structure
+### Primary structure - 
+(1 polypeptide chain)
+A protein's linear amino acid sequence, not taking into account the bonds that will form between different amino acids.
+### Secondary structure - 
+Sub structures that exist within the larger tertiary structure of a single protein
+
+**α Helix** 
+- protein substructure that resembles a single helix. 
+
+**β-pleated sheet**
+- protein substructure in which the amino acid sequence forms a pleated (folded) sheet.  
+- (the first thing it reminded me of is a Jacob's ladder).
+
+### Tertiary Structure
+the 3-Dimensional structure of a single protein
+
+# Bonds and Interactions that Form Protein Structure
 • loops and turns  
 • Ionic bond  
 • Hydrogen bond  
@@ -86,8 +96,13 @@ an enzyme that drives the activity of the P(eptidyl) site within the larger ribo
 • Wobble base  
 • Wobble rules  
 • Antibiotic  
-## You should be able to....  
-• Define the grouping of amino acids based on the R group.  
+# You should be able to....  
+### Define the grouping of amino acids based on the R group.
+- aliphatic
+- aromatic
+- hydrophobic 
+- hydrophillic
+
 • Experimental advances that helped crack the genetic code.  
 • Describe triplet binding assay and how it allowed researchers to crack the genetic code  
 • Describe the key structural features of a tRNA molecule.  
