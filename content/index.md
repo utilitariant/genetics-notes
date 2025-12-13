@@ -10,4 +10,4 @@ This is in no way meant to be representative of the breadth of knowledge on any 
 Mechanism biochemistry might not be discussed or explained, and many mechanism functions or sequences are paraphrased for the sake of simplicity.  
 
 
-Feedback or Corrections are welcome.  
+Feedback and Corrections are welcome.  
